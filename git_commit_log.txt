@@ -1,0 +1,18 @@
+* 9691b31 - docs: add AI audit report, critique and interaction logs (0 seconds ago) <23120382>
+* b75329f - feat: add agent skill for domain testing and BVA automation (0 seconds ago) <23120382>
+* d1908f7 - FR-20: add bug reports and screenshots (0 seconds ago) <23120382>
+* 78a499f - FR-20: add AI gap analysis (0 seconds ago) <23120382>
+* 43868b4 - FR-20: add BVA test cases (0 seconds ago) <23120382>
+* 1562de8 - FR-20: add domain testing analysis (0 seconds ago) <23120382>
+* aa7a522 - FR-16: add bug reports and screenshots (0 seconds ago) <23120382>
+* 9c7a068 - FR-16: add AI gap analysis (1 second ago) <23120382>
+* 63c01fe - FR-16: add BVA test cases (1 second ago) <23120382>
+* a3bba2f - FR-16: add domain testing analysis (1 second ago) <23120382>
+* 264bce3 - FR-08: add bug reports and screenshots (1 second ago) <23120382>
+* dc2c64f - FR-08: add AI gap analysis (1 second ago) <23120382>
+* f90e28b - FR-08: add BVA test cases (1 second ago) <23120382>
+* 69f8d52 - FR-08: add domain testing analysis (1 second ago) <23120382>
+* 9fc3d7d - FR-02: add bug reports and screenshots (1 second ago) <23120382>
+* bfa3342 - FR-02: add AI gap analysis (2 seconds ago) <23120382>
+* 90f0344 - FR-02: add BVA test cases (2 seconds ago) <23120382>
+* 52a600f - FR-02: add domain testing analysis (2 seconds ago) <23120382>
