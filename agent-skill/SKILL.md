@@ -86,3 +86,15 @@ YÊU CẦU THỰC HIỆN:
 4. Lập bảng Test Cases tuân thủ 100% nguyên tắc Single Fault Assumption (5 cột chuẩn).
 5. Đối soát mã nguồn SUT, chỉ rõ ít nhất 3 khiếm khuyết/lỗ hổng tiềm ẩn và lập bảng Bug Report chuẩn IEEE 829.
 ```
+
+---
+
+## 5. VIDEO DEMO KỸ THUẬT (DEMO RECORDING)
+* **YouTube Video Link (Unlisted):** [https://youtu.be/H6GeEQFtO9U](https://youtu.be/H6GeEQFtO9U)
+* **Thời lượng:** ~7 phút
+* **Nội dung demo:**
+  1. Giới thiệu cấu trúc Agent Skill và quy trình 5 bước tự động hóa Domain Testing & BVA.
+  2. Thực thi thử nghiệm trên tính năng **FR-08: Thanh toán (Checkout)**.
+  3. Phân tích khoảng cách AI Gap Analysis: AI bỏ sót kiểm tra Client Parameter Tampering và xóa giỏ hàng.
+  4. Thực nghiệm trên hệ thống SUT thực tế chứng minh lỗ hổng mua hàng 500k với giá 1k (BUG-FR08-01).
+  5. Tổng kết hồ sơ AI Audit Report, AI Critique và Git commit log.

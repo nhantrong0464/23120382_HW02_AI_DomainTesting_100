@@ -9,6 +9,7 @@
 * **Môn học:** Kiểm thử phần mềm (Software Testing)
 * **Đề tài:** HW02 - Domain Testing & Boundary Value Analysis AI-Augmented Testing
 * **Hệ thống thử nghiệm (SUT):** EShop Platform (Web Admin, Frontend Web React, Mobile React Native, Backend Express/SQLite)
+* **Video Demo (YouTube Unlisted):** [https://youtu.be/H6GeEQFtO9U](https://youtu.be/H6GeEQFtO9U)
 * **Ngày lập báo cáo:** 20/10/2026
 * **Trạng thái thẩm định:** ĐẠT YÊU CẦU XUẤT SẮC (AUDIT PASSED - 100/100)
 
